@@ -1,4 +1,4 @@
-# Hi, I'm Addison!
+# Greetings, I'm Addison!
 
 ### 🔬 M.Sc. Bioinformatics Student | Computational Genomics Researcher
 
