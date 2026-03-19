@@ -1,12 +1,12 @@
 # Greetings, I'm Addison!
 
-### 🧬 M.Sc. Bioinformatics Student | Computational Genomics Researcher
+### M.Sc. Bioinformatics Student | Computational Genomics Researcher
 
 I am a Master's student specializing in **Bioinformatics** with a strong background in large-scale data processing, reproducible pipelines, and computational genomics. My work focuses on leveraging **High-Performance Computing (HPC)** environments and machine learning to tackle complex biological problems, including *de novo* genome assembly and regulatory element prediction.
 
 ---
 
-### 💻 Key Expertise & Toolkit
+### Key Expertise & Toolkit
 
 I work with data processing, reproducible workflows, and advanced computational models.
 
@@ -32,7 +32,7 @@ I work with data processing, reproducible workflows, and advanced computational 
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/addison-yam)
 [![Email Badge](https://img.shields.io/badge/Email-yamaddsion@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yamaddison@gmail.com)
