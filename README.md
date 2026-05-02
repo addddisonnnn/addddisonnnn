@@ -34,5 +34,5 @@ I work with data processing, reproducible workflows, and advanced computational 
 
 ### Connect With Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/addison-yam)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/addisonyam)
 [![Email Badge](https://img.shields.io/badge/Email-yamaddsion@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yamaddison@gmail.com)
